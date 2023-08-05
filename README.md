@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lilybatch
 - 👀 I’m interested in arduinos, ESPs, raspberry pis, and diy projects
-- 🌱 I’m currently learning mechanical engineering
+- 🌱 I’m currently studying mechanical engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: lilybatch37@gmail.com   discord: ililily37
 
